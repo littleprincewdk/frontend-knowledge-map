@@ -19,7 +19,6 @@
 
   - [架构](browser/architecture)
   - [渲染](browser/render)
-  - [缓存](browser/cache)
   - [跨域](browser/cross-origin)
   - [Page Lifecycle API](browser/page-life-api)
 
